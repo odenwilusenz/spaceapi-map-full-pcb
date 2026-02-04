@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp-devboard")(type "KiCad")(uri "${KIPRJMOD}/esp-devboard.kicad_sym")(options "")(descr ""))
+)

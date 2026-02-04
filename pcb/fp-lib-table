@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp-devboard")(type "KiCad")(uri "${KIPRJMOD}/esp-devboard.pretty")(options "")(descr ""))
+)
