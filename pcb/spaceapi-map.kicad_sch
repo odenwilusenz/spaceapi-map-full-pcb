@@ -4355,7 +4355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 58.42 0)
 			(effects
 				(font
@@ -4694,7 +4694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 325.12 0)
 			(effects
 				(font
@@ -5299,7 +5299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 172.72 0)
 			(effects
 				(font
@@ -5704,7 +5704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 287.02 0)
 			(effects
 				(font
@@ -5977,7 +5977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 248.92 0)
 			(effects
 				(font
@@ -6052,7 +6052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 210.82 0)
 			(effects
 				(font
@@ -6127,7 +6127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -6202,7 +6202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 325.12 0)
 			(effects
 				(font
@@ -6785,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 210.82 0)
 			(effects
 				(font
@@ -6926,7 +6926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 287.02 0)
 			(effects
 				(font
@@ -7067,7 +7067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 210.82 0)
 			(effects
 				(font
@@ -7142,7 +7142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 172.72 0)
 			(effects
 				(font
@@ -7415,7 +7415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 58.42 0)
 			(effects
 				(font
@@ -7622,7 +7622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 210.82 0)
 			(effects
 				(font
@@ -7697,7 +7697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 58.42 0)
 			(effects
 				(font
@@ -7838,7 +7838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 134.62 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 58.42 0)
 			(effects
 				(font
@@ -8120,7 +8120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 287.02 0)
 			(effects
 				(font
@@ -8195,7 +8195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 96.52 0)
 			(effects
 				(font
@@ -8270,7 +8270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 96.52 0)
 			(effects
 				(font
@@ -8477,7 +8477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 248.92 0)
 			(effects
 				(font
@@ -8618,7 +8618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 210.82 0)
 			(effects
 				(font
@@ -8693,7 +8693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 248.92 0)
 			(effects
 				(font
@@ -8966,7 +8966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 287.02 0)
 			(effects
 				(font
@@ -9503,7 +9503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 96.52 0)
 			(effects
 				(font
@@ -10176,7 +10176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 134.62 0)
 			(effects
 				(font
@@ -10251,7 +10251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 248.92 0)
 			(effects
 				(font
@@ -10524,7 +10524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 287.02 0)
 			(effects
 				(font
@@ -10599,7 +10599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 134.62 0)
 			(effects
 				(font
@@ -10674,7 +10674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 248.92 0)
 			(effects
 				(font
@@ -10749,7 +10749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 325.12 0)
 			(effects
 				(font
@@ -11818,7 +11818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 325.12 0)
 			(effects
 				(font
@@ -12157,7 +12157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 172.72 0)
 			(effects
 				(font
@@ -12364,7 +12364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 172.72 0)
 			(effects
 				(font
@@ -12571,7 +12571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 134.62 0)
 			(effects
 				(font
@@ -12646,7 +12646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 325.12 0)
 			(effects
 				(font
@@ -12787,7 +12787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 248.92 0)
 			(effects
 				(font
@@ -12862,7 +12862,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 287.02 0)
 			(effects
 				(font
@@ -13201,7 +13201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 363.22 0)
 			(effects
 				(font
@@ -13276,7 +13276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 287.02 0)
 			(effects
 				(font
@@ -13351,7 +13351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 287.02 0)
 			(effects
 				(font
@@ -13558,7 +13558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 96.52 0)
 			(effects
 				(font
@@ -13633,7 +13633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 58.42 0)
 			(effects
 				(font
@@ -13708,7 +13708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 172.72 0)
 			(effects
 				(font
@@ -13981,7 +13981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 325.12 0)
 			(effects
 				(font
@@ -14122,7 +14122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 248.92 0)
 			(effects
 				(font
@@ -14263,7 +14263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 134.62 0)
 			(effects
 				(font
@@ -14404,7 +14404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 134.62 0)
 			(effects
 				(font
@@ -14809,7 +14809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 172.72 0)
 			(effects
 				(font
@@ -14884,7 +14884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 172.72 0)
 			(effects
 				(font
@@ -14959,7 +14959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 96.52 0)
 			(effects
 				(font
@@ -15100,7 +15100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 96.52 0)
 			(effects
 				(font
@@ -15773,7 +15773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 325.12 0)
 			(effects
 				(font
@@ -16046,7 +16046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 58.42 0)
 			(effects
 				(font
@@ -16385,7 +16385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 248.92 0)
 			(effects
 				(font
@@ -16724,7 +16724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 147.32 287.02 0)
 			(effects
 				(font
@@ -16931,7 +16931,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 172.72 0)
 			(effects
 				(font
@@ -17006,7 +17006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 96.52 0)
 			(effects
 				(font
@@ -17411,7 +17411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 248.92 0)
 			(effects
 				(font
@@ -17684,7 +17684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 172.72 0)
 			(effects
 				(font
@@ -17891,7 +17891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 325.12 0)
 			(effects
 				(font
@@ -17966,7 +17966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 287.02 0)
 			(effects
 				(font
@@ -18107,7 +18107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 325.12 0)
 			(effects
 				(font
@@ -18248,7 +18248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 210.82 0)
 			(effects
 				(font
@@ -18719,7 +18719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 58.42 0)
 			(effects
 				(font
@@ -19256,7 +19256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 185.42 210.82 0)
 			(effects
 				(font
@@ -19397,7 +19397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 242.57 325.12 0)
 			(effects
 				(font
@@ -19472,7 +19472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 210.82 0)
 			(effects
 				(font
@@ -19679,7 +19679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 90.17 58.42 0)
 			(effects
 				(font
@@ -19820,7 +19820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 58.42 0)
 			(effects
 				(font
@@ -20159,7 +20159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 96.52 0)
 			(effects
 				(font
@@ -20234,7 +20234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 134.62 0)
 			(effects
 				(font
@@ -20309,7 +20309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 134.62 0)
 			(effects
 				(font
@@ -20450,7 +20450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 166.37 134.62 0)
 			(effects
 				(font
@@ -20525,7 +20525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 58.42 0)
 			(effects
 				(font
@@ -20666,7 +20666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 363.22 0)
 			(effects
 				(font
@@ -21005,7 +21005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 210.82 0)
 			(effects
 				(font
@@ -21212,7 +21212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 128.27 363.22 0)
 			(effects
 				(font
@@ -21287,7 +21287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 109.22 134.62 0)
 			(effects
 				(font
@@ -21362,7 +21362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 261.62 248.92 0)
 			(effects
 				(font
@@ -21899,7 +21899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 96.52 0)
 			(effects
 				(font
@@ -21974,7 +21974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 223.52 172.72 0)
 			(effects
 				(font
@@ -22049,7 +22049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "esp-devboard:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 204.47 210.82 0)
 			(effects
 				(font
